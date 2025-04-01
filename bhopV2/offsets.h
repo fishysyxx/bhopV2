@@ -9,7 +9,7 @@ namespace Offsets
 {
 	adr64 client = cs2.GetModuleBaseAddress(L"client.dll");
 
-	const uintptr_t dwForceJump = 0x1885C80;//bhop
+	const uintptr_t dwForceJump = 0x186CD60;//bhop
 }
 
 #endif
